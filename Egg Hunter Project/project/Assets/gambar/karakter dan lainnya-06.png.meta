@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 167db909f568f0d459263be986c98420
+timeCreated: 1451354784
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: karakter dan lainnya-06_0
+    21300002: karakter dan lainnya-06_1
+    21300004: karakter dan lainnya-06_2
+    21300006: karakter dan lainnya-06_3
+    21300008: karakter dan lainnya-06_4
+    21300010: karakter dan lainnya-06_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: karakter dan lainnya-06_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 946
+        width: 770
+        height: 746
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karakter dan lainnya-06_1
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 969
+        width: 732
+        height: 732
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karakter dan lainnya-06_2
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1441
+        width: 1091
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karakter dan lainnya-06_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 134
+        width: 781
+        height: 746
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karakter dan lainnya-06_4
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 134
+        width: 781
+        height: 746
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: karakter dan lainnya-06_5
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 76
+        width: 1121
+        height: 1163
+      alignment: 9
+      pivot: {x: .539715409, y: .430398077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
